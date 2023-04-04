@@ -1,0 +1,28 @@
+
+----------------TIPOS DE ANÁLSIS----------------
+
+DESCRPTIVO -> qué pasó? - reportes
+Estamos en un McDonalds. Febrero es un mes de 4 semanas (28 dias) :. el lunes 28 es un dia de pagos.
+El 28 de febrero las ventas fueron superiores que cualquier dia de febrero y que el 28 de febrero del año anterior.
+
+
+DIAGNÓSTICO -> por qué pasó? - dashboards interactivos
+Esto ocurrio por varias razonesposibles:
+-habia promociones
+-los lunes en ese pais suele haber mayor consumo/demanda
+-dado que se cobraba el lunes, el fin de semana la gente estuvo sin plata entonces dejo de consumir el finde y consumió el lunes.
+
+
+PREDICTIVO -> qué pasará? - modelos (predictivos?)
+Basandome en la info histórica que tengo, qué pasará el próximo 28 de febrero? Seguro dependerá de:
+-que dia cae 
+-variables economicas como fx (guerra), inflación, etc
+-variables hexogenas: el dolar baja pero los precios no bajan
+
+
+PRESCCRIPTIVO -> qué debería hacer? - recomendaciones de automatización.
+Si el modelo matemático es bueno, obtengo que se consumirá xx. Ante esto, que recomiendo hacer?
+-aumento o disminuyo stock?
+-  ||         ||     personal?
+-genero promociones?
+-si el 28 de febrero del año que viene, el local va a estar eplotado por x motivo, vale la pena poner otra sucursal cerca?
